@@ -10,7 +10,7 @@
 // @match           https://www.meldkamerspel.com/buildings/*
 // @match           https://www.meldkamerspel.com/schoolings/*
 // @icon            https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
-// @URL             https://github.com/Rene-63/Opleidingen-Selecteren/blob/main/Schooling-Assigner
+// @downloadURL     https://github.com/Rene-63/Opleidingen-Selecteren/blob/main/Schooling-Assigner
 // @updateURL       https://github.com/Rene-63/Opleidingen-Selecteren/blob/main/Schooling-Assigner
 // @run-at          document-idle
 // @grant           none
