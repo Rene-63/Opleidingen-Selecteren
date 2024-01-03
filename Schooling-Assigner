@@ -2,7 +2,7 @@
 // @name            Opleidingen-Selecteren (oorspronkelijk)[LSS] Schooling Assigner
 // @name:def        Opleidingen-Selecteren (oorspronkelijk)[LSS] Lehrgangszuweiser
 // @namespace       http://bos-ernie.lss-manager.de
-// @version         0.4.1
+// @version         r.0.4.1
 // @author          BOS-Ernie (door Rene-MKS aangepast voor NL versie van MKS)
 // @description     Add buttons to assign between 1 and 10 persons of a building to a schooling at once.
 // @description:de  Fügt Buttons hinzu, um zwischen 1 und 10 Personen einer Wache auf einmal einem Lehrgang zuzuweisen.
@@ -10,7 +10,7 @@
 // @match           https://www.meldkamerspel.com/buildings/*
 // @match           https://www.meldkamerspel.com/schoolings/*
 // @icon            https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
-// @updateURL       
+// @updateURL       https://github.com/Rene-63/Opleidingen-Selecteren/blob/main/Schooling-Assigner
 // @run-at          document-idle
 // @grant           none
 // ==/UserScript==
